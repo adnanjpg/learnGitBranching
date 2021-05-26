@@ -20,7 +20,8 @@ exports.strings = {
     'sl_SI': 'Wow! Končal si zadnjo stopnjo, fantastično!',
     'pl': 'Wow! Ukończono ostatni poziom, świetnie!',
     'it_IT': "Wow! Hai concluso l'ultimo livello, grandioso!",
-    'ta_IN': 'ஆஹா! நீங்கள் கடைசி நிலையை முடித்துள்ளீர்கள், நன்று!'
+    'ta_IN': 'ஆஹா! நீங்கள் கடைசி நிலையை முடித்துள்ளீர்கள், நன்று!',
+    'tr_TR':'Wow! Son seviyeyi bitirdiniz, harika!'
   },
   ///////////////////////////////////////////////////////////////////////////
   'finish-dialog-next': {
@@ -43,7 +44,8 @@ exports.strings = {
     'sl_SI': 'Bi rad nadaljeval na *"{nextLevel}"*, naslednjo stopnjo?',
     'pl': 'Czy chcesz przejść do następnego poziomu - *"{nextLevel}"*?',
     'it_IT': 'Ti andrebbe di passare al prossimo livello, *"{nextLevel}"*?',
-    'ta_IN': 'அடுத்த நிலை * "{nextLevel}" * க்கு செல்ல விரும்புகிறீர்களா?'
+    'ta_IN': 'அடுத்த நிலை * "{nextLevel}" * க்கு செல்ல விரும்புகிறீர்களா?',
+    'tr_TR':'Sonraki seviye *"{nextLevel}"*\'e geçmek ister misiniz?'
   },
   ///////////////////////////////////////////////////////////////////////////
   'finish-dialog-win': {
@@ -66,7 +68,8 @@ exports.strings = {
     'sl_SI': 'Bravo! Izenačil ali celo presegel si našo rešitev.',
     'pl': 'Niesamowite! Rozwiązałeś zadanie w ten sam sposób lub lepiej.',
     'it_IT': "Grandioso! Hai uguagliato o migliorato la nostra soluzione.",
-    'ta_IN': 'அருமை! எங்கள் கொடுக்க பட்ட தீர்வை நிறைவு செய்து விட்டீர்கள்.'
+    'ta_IN': 'அருமை! எங்கள் கொடுக்க பட்ட தீர்வை நிறைவு செய்து விட்டீர்கள்.',
+    'tr_TR': 'Harika, en az bizimki kadar iyi bir çözüm ürettin.'
   },
   ///////////////////////////////////////////////////////////////////////////
   'finish-dialog-lose': {
@@ -89,7 +92,8 @@ exports.strings = {
     'sl_SI': 'Misliš da lahko spraviš rešitev na {best}? :D',
     'pl': 'Sprawdź, czy dasz radę to zrobić w {best} krokach :D',
     'it_IT': "Prova a migliorarti facendolo solo con {best} comandi :D",
-    'ta_IN': 'நீங்கள் அதை குறைக்க முடியுமா என்று பாருங்கள் {best} :D'
+    'ta_IN': 'நீங்கள் அதை குறைக்க முடியுமா என்று பாருங்கள் {best} :D',
+    'tr_TR': 'Bak bakalım bunu {best} kadar düşürebilecek misin :D'
   },
   ///////////////////////////////////////////////////////////////////////////
   'hg-prune-tree': {
@@ -112,7 +116,8 @@ exports.strings = {
     'pl': 'Ostrzeżenie! Mercurial prowadzi agresywną kolekcję śmieci i dlatego musi przycinać Twoje drzewo',
      'it_IT':
       "Attenzione! Mercurial ha un garbage collector molto aggressivo e perciò deve potare il tuo albero",
-    'ta_IN': 'எச்சரிக்கை! மெர்குரியல் வலிய களிவு சேகரிப்பு செய்கிறது, இதனால் உங்கள் மரத்தை கத்தரிக்க வேண்டிவரும்'
+    'ta_IN': 'எச்சரிக்கை! மெர்குரியல் வலிய களிவு சேகரிப்பு செய்கிறது, இதனால் உங்கள் மரத்தை கத்தரிக்க வேண்டிவரும்',
+    'tr_TR': 'Uyarı! Mercurial agresif tavırlar sergiliyor ve senin ağacını kırpmak istiyor'
   },
   ///////////////////////////////////////////////////////////////////////////
   'hg-a-option': {
@@ -134,7 +139,8 @@ exports.strings = {
     'sl_SI': 'Opcija -A ni potrebna za to aplikacijo, samo commitaj!',
     'pl': 'Opcja -A nie jest wymagana w tej aplikacji, po prostu zrób `commit`!',
     'it_IT': "L'opzione -A non è necessiaria, fai semplicemente commit!",
-    'ta_IN': 'இந்த பயன்பாட்டிற்கு -A மாற்று தேவையில்லை, `கமிட்` செய்யுங்கள்'
+    'ta_IN': 'இந்த பயன்பாட்டிற்கு -A மாற்று தேவையில்லை, `கமிட்` செய்யுங்கள்',
+    'tr_TR': '-A opsiyonu bu uyuglama için gerekli değildir, sadece commit\'ini uygula gitsin!'
   },
   ///////////////////////////////////////////////////////////////////////////
   'hg-error-no-status': {
